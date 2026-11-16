@@ -1,0 +1,9 @@
+node_modules
+dist
+dist-offline
+test-results
+playwright-report
+shots
+*.local
+.DS_Store
+.env
